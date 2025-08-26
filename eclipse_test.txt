@@ -1,0 +1,1 @@
+Summation for number 20 is: 210
