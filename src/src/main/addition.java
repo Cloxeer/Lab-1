@@ -8,13 +8,13 @@ public class addition {
 	 */
 	public static void main(String[] args) {
 		
-		int number = 20;
+		int number = 10;
 		int step = 1;
 		int summation =0;
 		
 		for (int i=0; i<number; i++){
 			summation+=step;
-			step++;
+			step+=2;
 		}
 
 		try {
